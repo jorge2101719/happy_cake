@@ -1,0 +1,22 @@
+#root {
+  /* max-width: 1280px; */
+  /* width: 100vh; */
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+  text-align: center;
+}
+
+.navegador-color {
+  background-color: #f03255;
+  border-color: #f03255;
+}
+
+.imagen-home {
+  font-size: 10rem;
+}
+
+.imagen-nav {
+  font-size: 1.5rem;
+}
+
+
