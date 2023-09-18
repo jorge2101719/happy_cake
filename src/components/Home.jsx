@@ -1,9 +1,13 @@
+import { Container } from "react-bootstrap";
+
 const Home = () => {
   return(
     <>
-      <div>
-        
-      </div>
+      <Container>
+        <div>
+          <span className="imagen-home">🎂</span>
+        </div>
+      </Container>
     </>
   )
 }
