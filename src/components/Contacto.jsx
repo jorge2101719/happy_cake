@@ -76,7 +76,7 @@ const Contacto = () => {
             />
           </Form.Group>
 
-          {/* Mensaje de advertancia sencillo */}
+          {/* Mensaje de advertencia sencillo */}
           {error ? <p className={estilo}>{mensaje}</p> : null}
 
           <Button type='submit' className='navegador-color my-5'>
